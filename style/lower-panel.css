@@ -16,6 +16,11 @@
     margin-right: 15px;
     margin-top: 15px;
 }
+.number:hover {
+    background: black;
+    color: white;
+    transition: 300ms;
+}
 .big-button {
     position: absolute;
     margin-top: 0px;
@@ -31,4 +36,9 @@
     border: 1px solid #000000;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.25);
     margin-top: 15px;
+}
+.bigBtn:hover {
+    background: black;
+    color: white;
+    transition: 300ms;
 }

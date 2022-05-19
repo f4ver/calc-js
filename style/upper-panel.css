@@ -12,3 +12,8 @@
     margin-right: 15px;
     margin-top: 15px;
 }
+.upperBtn:hover {
+    background: black;
+    color: white;
+    transition: 300ms;
+}
