@@ -1,1 +1,1 @@
-# Open index.html with ur browser ¯\_(ツ)_/¯
+# Open index.html with ur browser ¯\\_(ツ)_/¯
