@@ -70,7 +70,7 @@ calc.addEventListener('click', function(event) {
     switch(value) {
         case '=':
             rvt = eval(result.innerText);
-            result.innerText = eval(result.innerText);
+            result.innerText = eval(result.innerText).toFixed(2);
             break;
         default:
             result.innerText +=value;
